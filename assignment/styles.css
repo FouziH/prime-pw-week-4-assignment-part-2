@@ -3,20 +3,23 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(6deg);
+    transform: rotate(3deg);
   }
 }
 
 h2{
   text-align: center;
-    background-color: yellow;
+  background-color: teal;;
 }
 
 h3{
-  background-color: orange;
+  background-color: black;
   text-align: center;
+  color: white;
+  padding: 2px;
+  margin-bottom: 10px;
 }
-
+/* transportation class */
 .transportation{
 
   height: 70%;
@@ -24,20 +27,21 @@ h3{
   margin-left: auto;
   margin-right: auto;
   width: 70%;
-  animation: rotation 2s linear infinite;
-  border-radius: 30%
+  animation: rotation 4s linear infinite;
+  border-radius: 30%;
 }
+/* Info class  */
 .info {
   margin: 10px auto;
   border: 3px solid black;
-  color: blue;
+  color: white;
   width:50%;
 }
 
-
-.header{
-  margin: 30px;
+/* header class */
+.header {
+  margin: auto;
   width: auto;
-  padding: 10px;
-  background-color: teal;
+  padding-top:  2px;
+  background-color: grey;
 }
