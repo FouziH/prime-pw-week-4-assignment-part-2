@@ -9,12 +9,11 @@
 
 h2{
   text-align: center;
-  background-color: red;
-
+  background-color: teal;;
 }
 
 h3{
-  background-color: blue;
+  background-color: black;
   text-align: center;
   color: white;
   padding: 2px;
@@ -30,7 +29,6 @@ h3{
   width: 70%;
   animation: rotation 4s linear infinite;
   border-radius: 30%;
-
 }
 /* Info class  */
 .info {
@@ -38,10 +36,6 @@ h3{
   border: 3px solid black;
   color: white;
   width:50%;
-  border-left-color: blue;
-  border-right-color: red;
-  border-bottom-color: red;
-  border-top-color: blue
 }
 
 /* header class */
@@ -49,8 +43,5 @@ h3{
   margin: auto;
   width: auto;
   padding-top:  2px;
-  background-color: rgb(121, 90, 7);
-  background: linear-gradient(to right, blue 50%, red 50%);
-
-
+  background-color: grey;
 }
