@@ -28,7 +28,7 @@ h3{
   margin-left: auto;
   margin-right: auto;
   width: 70%;
-  animation: rotation 4s linear infinite;
+  animation: rotation 1s linear infinite;
   border-radius: 30%;
 
 }
